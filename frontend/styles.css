@@ -1,0 +1,7 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./media/background.png);
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
